@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harssiii
-- 👀 I’m interested in JS Development
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on MERN
+- 👀 Interested in JS Development
+- 🌱 Currently learning MERN Stack
+- 💞️ Looking to collaborate on MERN
 - 📫 How to reach me m.harry390@gmail.com
 
 <!---
